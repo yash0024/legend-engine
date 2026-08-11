@@ -1152,11 +1152,6 @@
             <scope>runtime</scope>
         </dependency>
         <dependency>
-            <groupId>org.pac4j</groupId>
-            <artifactId>jersey-pac4j</artifactId>
-            <scope>runtime</scope>
-        </dependency>
-        <dependency>
             <groupId>joda-time</groupId>
             <artifactId>joda-time</artifactId>
             <scope>runtime</scope>
